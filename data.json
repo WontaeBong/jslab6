@@ -4,6 +4,8 @@
   "streetAddress2": "Unit #24",
   "city": "Waterloo",
   "province": "Ontario",
+  "country": "Canada",
+  "postalCode": "L4M 6P9",
   "established": 1965,
   "active": true,
   "slogan": "We're masters of bait!",
